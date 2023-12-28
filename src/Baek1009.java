@@ -14,7 +14,7 @@ public class Baek1009 {
 
             int search_index=0;
             for(int j=1; j<=b;){
-                for(int z=0;z<4;z++){//z 0 1 2
+                for(int z=0;z<4;z++){//gz 0 1 2
                     if(j==b){
                         search_index=z; //j==b이면
                         //System.out.println("확인할거"+search_index);
