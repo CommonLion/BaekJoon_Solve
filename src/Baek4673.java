@@ -8,7 +8,6 @@ public class  Baek4673 {
         Vector<Integer> v = new Vector<Integer>();
         int maan = 10000;
         for(int i=0;i<maan;i++){
-            //list.add(i);
             v.add(i, i);
         }
         for(int i=0;i<maan;i++){

@@ -28,7 +28,7 @@ public class Baek2309{
                         System.out.println(a);
                     }
                     return;
-                }
+                }//
                 list = new ArrayList<>(ori_list);
             }
 

@@ -28,7 +28,7 @@ public class Baek1009 {
                 System.out.println(index.get(search_index));
             }
         }
-//
+
     }
     public ArrayList<Integer> make(int a, int b){
         ArrayList<Integer> test = new ArrayList<>();
