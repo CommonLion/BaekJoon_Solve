@@ -8,8 +8,8 @@ public class Baek2579_2 {
         Baek2579_2 man = new Baek2579_2();
         Scanner s = new Scanner(System.in);
         n = s.nextInt();
-        int[] stair = new int[n];
-        int[] dp = new int[n];
+        int[] stair = new int[301];
+        int[] dp = new int[301];
         int sum = 0, cnt = 0, x1 = 0;
         for (int i = 0; i < n; i++) {
             stair[i] = s.nextInt();
